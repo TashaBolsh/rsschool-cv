@@ -1,5 +1,5 @@
 #Bolshekova Tatciana
-****************************************
+***************************************
 ##Junior Frontend Developer
 *Skills
 +Javascript
@@ -9,4 +9,4 @@
 +English
 *Experience
 +Frontend Developer Intern
-****************************************
+***************************************
